@@ -2,6 +2,8 @@
 
 _because timecube.com was confusing_
 
+Generates mp3s of timecube sayings using a Markov chain
+
 ## Usage
 
 1. `pipenv sync`
